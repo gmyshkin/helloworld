@@ -1,2 +1,2 @@
 # helloworld
-Repository for HW00
+helloworld repository for HW00
